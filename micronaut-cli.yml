@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: com.brennaswitzer
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, gradle, graphql, grpc, junit, kotlin, kotlin-application, logback, readme, shade, yaml]
